@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/frontend-4week-homework/static/css/main.e283886c.css",
+    "main.js": "/frontend-4week-homework/static/js/main.8d9ab8cb.js",
+    "static/media/bg-intro-mobile.png": "/frontend-4week-homework/static/media/bg-intro-mobile.02ce398270ece1769ebc.png",
+    "index.html": "/frontend-4week-homework/index.html",
+    "main.e283886c.css.map": "/frontend-4week-homework/static/css/main.e283886c.css.map",
+    "main.8d9ab8cb.js.map": "/frontend-4week-homework/static/js/main.8d9ab8cb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e283886c.css",
+    "static/js/main.8d9ab8cb.js"
+  ]
+}
